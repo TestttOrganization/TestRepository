@@ -55,6 +55,6 @@
         <OutArgument x:TypeArguments="x:Object">[anotherasset]</OutArgument>
       </Assign.To>
     </Assign>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="262.4,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="262.4,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[dddd]" />
   </Sequence>
 </Activity>
